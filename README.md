@@ -29,10 +29,10 @@ The dashboard features:
 ## 🖼️ Dashboard Snapshots
 
 ### Main View
-![Call Center Dashboard](Screenshot 2025-06-25 172342.png)
+![Call Center Dashboard](Dashboard_Call_Center_1.png)
 
 ### Filtered View (Example)
-![Filtered Dashboard]("Screenshot 2025-06-25 172356.png)
+![Filtered Dashboard](Dashboard_Call_Center_2.png)
 
 
 
